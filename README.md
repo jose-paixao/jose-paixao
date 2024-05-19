@@ -1,8 +1,12 @@
 # print("hello word")
 <div align="center">
   <a href="https://github.com/jose-paixao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-paixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-paixao&layout=compact&hide=scss,c,processing&langs_count=5&theme=dark"/>
+  <div align="center"> 
+<a href="https://github.com/Juan-Severiano">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josepaixao&theme=radical&rank_icon=github&show_icons=true&repo-private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josepaixao&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=academytaskhub,github-clone.ts,nextjs-luizomf,inventory-control-next,REACT,my-tours-layout,next14-project,my-tours-next,meus-passeios,proenem-manage,marvel-dev-api,python,atividade01.02,HTML,petshop,collaborate,sass-alura,Curso-JavaScript,curso_bootstrap,starwars-list,pokemon-devemdobro,Landing-Page,gatastrofic,academytaskhub-app,react-native-base-project&repo-private=true" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Juan-Severiano&theme=radical&mode=weekly" />
+</a>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="jose-paixao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
